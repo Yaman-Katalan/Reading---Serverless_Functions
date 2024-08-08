@@ -6,8 +6,8 @@
 
 - **HTTP request methods** are used to perform actions on resources identified by URLs. Common methods include:
 
-GET: Retrieve data from a server.
-POST: Submit data to a server.
-PUT: Update a resource on a server.
-DELETE: Remove a resource from a server.
-PATCH: Partially update a resource on a server.
+- - GET: Retrieve data from a server.
+- - POST: Submit data to a server.
+- - PUT: Update a resource on a server.
+- - DELETE: Remove a resource from a server.
+- - PATCH: Partially update a resource on a server.
